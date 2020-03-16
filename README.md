@@ -1,4 +1,4 @@
-# Gnerate-password
+# "G"nerate-password
 Forever gone is the Day and Age of Forgotten Passwords! 
 
 "Gnerate Password" is a unique password generation site that allows the user option to choose his/her password parameters.
