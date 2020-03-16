@@ -1,5 +1,5 @@
 # Gnerate-password
-It is the Day and Age of Forgotten Passwords! 
+Forever gone is the Day and Age of Forgotten Passwords! 
 
 "Gnerate Password" is a unique password generation site that allows the user option to choose his/her password parameters.
 Personal passwod choice from my "Gnerate password' site will help solve any issues users have with forgotten passwords.
