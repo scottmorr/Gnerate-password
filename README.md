@@ -1,4 +1,7 @@
 # Generate-password
+
+Lnk to Site: https://scottmorr.github.io/Gnerate-password/
+
 Forever gone is the Day and Age of Forgotten Passwords! 
 
 "Generate Password" is a unique password generation site that allows the user option to choose his/her password parameters.
